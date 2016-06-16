@@ -1,0 +1,14 @@
+Package: proastUI
+Maintainer: Machteld Varewyck <machteld.varewyck@openanalytics.eu>
+License: MIT
+Title: User Interface for the Proast package
+Type: Package
+Author: Machteld Varewyck, Laure Cougnaud
+Description: Built User Interface for the Proast package.
+Version: 0.0.3
+Date: 2016-05-15
+Imports:
+    shiny, assertive, devtools
+Suggests:
+	testthat, shinysky
+RoxygenNote: 5.0.1
